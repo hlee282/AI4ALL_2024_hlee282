@@ -1,4 +1,4 @@
-# (UPDATE IN README.md) Project Title
+# Simple Mood-based Music Recommendation System 
 
 (UPDATE IN README.md)
 Briefly describe the purpose/result(s) of your project, the skills you applied, and the Apply AI program.
@@ -29,39 +29,22 @@ Enumerate the main results of this project in a list and describe them.
 
 
 ## Methodologies <!--- do not change this line -->
-
-(UPDATE IN README.md)
-
-*EXAMPLE:*
-*To accomplish this, we utilized the OpenAI API to interact with ChatGPT, and we designed a custom Python script to generate diverse prompts and collect corresponding responses. The data was then processed and analyzed using pandas, enabling us to detect patterns and biases in the AI model's outputs.*
-*Engineered a Python script to generate over 1,000 prompts and elicit their responses from ChatGPT, utilizing pandas to collect the data. When prompted for solutions to this specific relevant crisis, nearly 80% of ChatGPT's responses promoted a certain worldview.*
+*Used PCA and K Means to classify songs into emotions. Outputs a random list of 5 songs associated with inputted emotion. 
 
 
 ## Data Sources <!--- do not change this line -->
-
-(UPDATE IN README.md)
-Include any relevant data sources that were used in your project.
-
-*EXAMPLE:*
-*Kaggle Datasets: [Link to Kaggle Dataset](https://www.kaggle.com/datasets)*
+*Kaggle Datasets: [Link to Kaggle Dataset](https://www.kaggle.com/datasets/pepepython/spotify-huge-database-daily-charts-over-3-years)*
 
 ## Technologies Used <!--- do not change this line -->
-
-(UPDATE IN README.md)
-List the technologies, libraries, and frameworks used in your project.
-
-*EXAMPLE:*
 - *Python*
 - *pandas*
-- *OpenAI API*
+- *numpy*
+- *seaborn*
+- *matplotlib*
+- *sklearn*
+- *Anvil*
 
 
 ## Authors <!--- do not change this line -->
+Hyun-Jeong Lee (hyl037@ucsd.edu)
 
-(UPDATE IN README.md)
-List the names and contact information (e.g., email, GitHub profiles) of the authors or contributors.
-
-*EXAMPLE:*
-*This project was completed in collaboration with:*
-- *John Doe ([john.doe@example.com](mailto:john.doe@example.com))*
-- *Jane Smith ([jane.smith@example.com](mailto:jane.smith@example.com))*
