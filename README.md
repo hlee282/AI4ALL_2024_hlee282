@@ -4,7 +4,7 @@
 
 
 ## Problem Statement <!--- do not change this line -->
-*Matching music to one's mood is proven to help in regulating and processing emotion. Thus, a mood-based music recommendation system can help suggest music according to how the user is feeling.*
+*Matching music to one's mood is proven to help in regulating and processing emotion. Thus, a mood-based music recommendation system can help achieve this. 
 
 ## Key Results <!--- do not change this line -->
 
